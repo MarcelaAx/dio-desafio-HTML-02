@@ -1,2 +1,2 @@
 # Repositório do Desafio HTLM da DIO
-Desafio de projeto sobre primeiros passos com HTML
+Desafio 02 de projeto sobre primeiros passos com HTML
